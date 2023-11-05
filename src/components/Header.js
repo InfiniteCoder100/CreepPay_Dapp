@@ -33,7 +33,7 @@ const Header = () => {
   return (
     <div className="w-full h-1/4 pt-4 flex justify-between items-start">
       {/* Logo */}
-      <img className="h-12 ml-2" src="creepPay.png" />
+      <img className="h-12 ml-2" src="creeppay.png" />
 
       <div className="flex justify-between items-start">
         {/* Wallet */}
