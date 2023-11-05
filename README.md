@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# Description     
+-CreepPay is a Web3 Payment Interface Application for exchanging money across borders with very less effort and time, 
+removing the long time delay and complexities in FACED traditional payment gateways.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Problem Statement
+Web3Paypal tackles the inefficiencies of traditional cross-border payment gateways, eradicating delays and complexity. In a world where funds transfer across borders can be cumbersome, costly, and time-consuming, our Dapp offers a seamless, decentralized alternative. Users can send and receive money swiftly, securely, and with lower fees, all while leveraging the trust and transparency of blockchain technology. Say farewell to intermediaries and hello to a borderless, hassle-free future in financial transactions with Web3Paypal.
 
-## Available Scripts
+# How CreepPay solves the problem
+Instantaneous Transactions: CreepPay ensures near-instant cross-border transactions. Traditional international payment methods often involve lengthy processing times, including bank transfers that can take days. With Web3Paypal, users can send and receive funds across borders within minutes, if not seconds, significantly reducing transaction times.
 
-In the project directory, you can run:
+Lower Transaction Costs: Traditional payment gateways may charge high fees for cross-border transfers, including conversion fees, intermediary bank charges, and more. Web3Paypal operates on the Ethereum blockchain, which typically incurs lower fees, making cross-border payments more cost-effective.
 
-### `npm start`
+Transparency and Security: Blockchain technology provides an immutable ledger of all transactions, enhancing transparency and trust. Users can track their transactions in real-time and have confidence in the security of their funds due to the decentralized nature of the blockchain.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Accessibility: CreepPay is designed to be user-friendly and accessible to a global audience. It removes the need for complex intermediaries, opening up cross-border payments to individuals and businesses worldwide.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Elimination of Middlemen: Traditional cross-border payments often involve multiple intermediaries, each adding complexity and cost. Web3Paypal eliminates these intermediaries, streamlining the payment process.
 
-### `npm test`
+In summary, CreepPay simplifies and accelerates cross-border payments by utilizing blockchain technology, reducing costs, and enhancing transparency and security. It empowers users to make cross-border transactions with ease, ultimately resolving the challenges associated with traditional cross-border payment methods.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Tech Stack Used
+Frontend- React.js
+Backend- Node.js , Moralis Api
+Blockchain- Solidity , Hardhat
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Team Members:
+-Kundan Kumar 
+- Harsh Agrawal
+# License
+this repo is under MIT License.
