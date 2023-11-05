@@ -1,5 +1,5 @@
 # Description     
--CreepPay is a Web3 Payment Interface Application for exchanging money across borders with very less effort and time, 
+CreepPay is a Web3 Payment Interface Application for exchanging money across borders with very less effort and time, 
 removing the long time delay and complexities in FACED traditional payment gateways.
 
 # Problem Statement
@@ -24,7 +24,7 @@ Backend- Node.js , Moralis Api
 Blockchain- Solidity , Hardhat
 
 # Team Members:
--Kundan Kumar 
+- Kundan Kumar 
 - Harsh Agrawal
 # License
 this repo is under MIT License.
